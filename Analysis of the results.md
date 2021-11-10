@@ -9,11 +9,11 @@ Based on the Kickstarter dataset, this document particularly analyzes the *"Thea
 
 ## Analysis and Challenges
 
-###1 Formual Check and Review
+### 1 Formual Check and Review
 
 Sometimes when I applied a formula such as "COUNTIF", the result was wrong when I ignored some necessary criteria. In this case, double-checking the result and comparing it with the original data in the Kickstarter dataset is important. Otherwise, the wrong result will cause a wrong chart.
 
-###2 File Crashes
+### 2 File Crashes
 
 With the more newly created sheets, the size of the file will become bigger. In this case, saving the updating edits frequently is necessary, otherwise, the document may suddenly crash.
 

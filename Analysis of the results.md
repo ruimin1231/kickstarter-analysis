@@ -4,7 +4,7 @@
 ## Overview of Project
 
 This analysis aims to help the client Louise understand how different campaigns fared in relation to their launch dates and their funding goals.
-Based on the Kickstarter dataset, this document particularly analyzes the *"Theater Outcomes by Launch Date"* and  the *" Outcomes of the Goals"* under the subcategory "plays". To better explore the analysis,  we visualized two line charts to picture the data tendency, ![Theater Outcomes by Launch Date] (https://github.com/ruimin1231/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png.png)
+Based on the Kickstarter dataset, this document particularly analyzes the *"Theater Outcomes by Launch Date"* and  the *" Outcomes of the Goals"* under the subcategory "plays". To better explore the analysis,  we visualized two line charts to picture the data tendency, ![Theater Outcomes by Launch Date] (https://github.com/ruimin1231/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png.png) and ![Outcomes of the Goals] (https://github.com/ruimin1231/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png).
 
 
 ## Analysis and Challenges
